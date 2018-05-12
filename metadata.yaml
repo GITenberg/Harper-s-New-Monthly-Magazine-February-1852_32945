@@ -4,6 +4,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32945#Harper-s-New-Monthly-Magazine-February-1852
 gutenberg_bookshelf: Harper's New Monthly Magazine
 gutenberg_issued: '2010-06-22'
 gutenberg_type: Text
